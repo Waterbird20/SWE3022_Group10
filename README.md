@@ -25,12 +25,12 @@ The final compilation and submission will be handled by me (Donghun Jung), so yo
 
 ### Installation
 
-#### Marp for VS Code
+#### Marp for VS Code (Recommended for Editing)
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 Create slide decks written in Marp Markdown directly in VS Code.
 
-#### Marp CLI
+#### Marp CLI (Required to compliation)
 [GitHub Repository](https://github.com/marp-team/marp-cli)
 
 A CLI interface for Marp and Marpit based converters.
