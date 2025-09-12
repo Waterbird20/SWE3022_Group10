@@ -1,13 +1,42 @@
 # SWE 3022 Group 10
 
-## Week3
+## Week 3
+
+<div align="center">
+
+### Assignment Materials
+
+<table>
+<tr>
+<td align="center" width="120">
+<a href="./main.pdf">
+<img src="https://img.icons8.com/?size=100&id=13417&format=png&color=000000" width="60px"/>
+<br/>
+<strong>📄 PDF</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="./main.pptx">
+<img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" width="60px"/>
+<br/>
+<strong>📊 PowerPoint</strong>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+
+
 
 | | 김태림 | 복재민 | 안나영 | 이석원 | 이승환 | 이태영 | 임지훈 | 정동훈 | 채민지 | 
 |-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|1|       |       |       |       |       |       |       |       |       |
-|2|       |       |       |       |       |       |       |       |       |
-|3|       |       |       |       |       |       |       |       |       |
-|4|       |       |       |       |       |       |       |       |       |
+|1|       |   O   |       |       |   O   |       |   O   |       |   O   |
+|2|   O   |       |       |   O   |       |       |       |   O   |   O   |
+|3|   O   |   O   |   O   |   O   |       |   O   |       |       |       |
+|4|       |       |   O   |       |   O   |   O   |   O   |   O   |       |
 
 ## MARP
 
@@ -50,11 +79,16 @@ npm install
 
 **Usage:**
 ```bash
+# (Default) Generate PPTX, PDF, and HTML and Update main files at home directory.
+make No=2 Date=20250917
+```
+```bash
 # Generate PPTX file
-make pptx No=01 Date=20250910
-
+make pptx No=2 Date=20250917
+```
+```bash
 # Generate PDF file  
-make pdf No=01 Date=20250910
+make pdf No=2 Date=20250917
 ```
 
 #### Standard Marp CLI Commands
