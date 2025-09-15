@@ -5,9 +5,9 @@ paginate: true
 
 --- -->
 
-# 1. Example
+# 1. Network Application Architecture
 
-### A. Explain the Internet protocol stack, and the encapsulation and the decapsulation of a user’s data by using air travel example
+### A. Explain the client-server architecture. Suggest two example applications that use a client-server architecture.
 
 
 ***Application Layer (Ticketing Service)***
