@@ -25,3 +25,4 @@ Bok JaeMin
 
 Bok JaeMin
 
+There are two types of DNS name resolution: iterative and recursive. In ***iterative resolution***, each contacted DNS server does not return the final answer but instead refers the client (or local DNS) to another server closer to the answer (e.g., root → TLD → authoritative). In ***recursive resolution***, the queried DNS server takes full responsibility: it contacts other servers on behalf of the client and returns the final IP address. Iterative queries reduce load on upper servers, while recursive queries simplify the client’s job but increase the burden on higher-level DNS servers.
