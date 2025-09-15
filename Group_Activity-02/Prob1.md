@@ -9,8 +9,8 @@ paginate: true
 
 ### A. Explain the client-server architecture. Suggest two example applications that use a client-server architecture.
 
-
-***Application Layer (Ticketing Service)***
+Bok JaeMin
+***Client-Server Architecture***
 At this highest layer, the user expresses a travel request similar to **purchasing an airline ticket**. In networking, this corresponds to user applications like web browsers requesting services such as accessing a web page.
 
 ***Transport Layer (Baggage Service)***
