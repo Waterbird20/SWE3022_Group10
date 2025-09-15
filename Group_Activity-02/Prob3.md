@@ -9,9 +9,17 @@ paginate: true
 
 ### A. Explain the Domain Name System (DNS).
 
+Bok JaeMin
+
+***Domain Name System(DNS)***
+is a 
 
 ### B. Explain the three classes of DNS servers, i.e., Root, TLD, and Authoritative DNS Servers.
 
+Bok JaeMin
+
 
 ### C. Explain two DNS name resolutions such as iterative resolution and recursive resolution in detail. 
+
+Bok JaeMin
 
