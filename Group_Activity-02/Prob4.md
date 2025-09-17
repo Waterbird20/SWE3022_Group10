@@ -46,3 +46,9 @@ ___Datagram sockets___, on the other hand, are based on UDP, which is connection
 - The **bind** function assigns a local IP address and port number to a socket, usually on the server side, so that incoming requests can be directed properly.
 - The **listen** function places the socket into a passive, listening state, which prepares the server to accept incoming connection requests.
 - The **accept** function acknowledges an incoming client request and creates a new socket dedicated to communication with that client. The original listening socket remains available to wait for additional connections. It returns new non-negative socket descriptor on success, -1 on failure.
+
+<style scoped>
+li {
+    font-size: 25px;
+}
+</style>
