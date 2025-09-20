@@ -33,10 +33,10 @@
 
 | | 김태림 | 복재민 | 안나영 | 이석원 | 이승환 | 이태영 | 임지훈 | 정동훈 | 채민지 | 
 |-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|1|       |   O   |       |       |   O   |       |   O   |       |   O   |
-|2|   O   |       |       |   O   |       |       |       |   O   |   O   |
-|3|   O   |   O   |   O   |   O   |       |   O   |       |       |       |
-|4|       |       |   O   |       |   O   |   O   |   O   |   O   |       |
+|1|       |   O   |       |       |   O   |   O   |       |       |   O   |
+|2|       |   O   |   O   |       |       |       |   O   |   O   |       |
+|3|   O   |       |       |   O   |       |   O   |       |   O   |   O   |
+|4|   O   |       |   O   |   O   |   O   |       |   O   |       |       |
 
 ## MARP
 
@@ -80,15 +80,15 @@ npm install
 **Usage:**
 ```bash
 # (Default) Generate PPTX, PDF, and HTML and Update main files at home directory.
-make No=2 Date=20250917
+make No=3 Date=20250924
 ```
 ```bash
 # Generate PPTX file
-make pptx No=2 Date=20250917
+make pptx No=3 Date=20250924
 ```
 ```bash
 # Generate PDF file  
-make pdf No=2 Date=20250917
+make pdf No=3 Date=20250924
 ```
 
 #### Standard Marp CLI Commands
